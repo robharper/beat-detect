@@ -1,10 +1,10 @@
 My Master's Thesis
 ==================
 
-*Title:* Real-time Beat Detection in Digital Music
-*Author:* Rob Harper
-*Date:* Dec 2003
-*Thesis For:* Master of Applied Science in Systems Design Engineering at the Univesity of Waterloo
+* *Title:* Real-time Beat Detection in Digital Music
+* *Author:* Rob Harper
+* *Date:* Dec 2003
+* *Thesis For:* Master of Applied Science in Systems Design Engineering at the Univesity of Waterloo
 
 Description
 -----------
